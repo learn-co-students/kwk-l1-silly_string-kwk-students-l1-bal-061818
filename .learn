@@ -1,7 +1,0 @@
-tags:
-  - strings
-  - kids
-languages:
-  - ruby
-
-parent_template: git@github.com:learn-co-curriculum/upperline-silly_string.git
